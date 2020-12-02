@@ -14,7 +14,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 <hr>
 
-## Projelerim
+## 1-Projeler
 ### NLP
 [WhatsApp Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi)<br>
 [Telefon Yorumları Duygu Analizi](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)<br>
@@ -22,7 +22,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 [Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)<br>
 
 
-## Yazılarım
+## 2-Yazılar
 
 [Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)
 
