@@ -32,9 +32,12 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 </p>
 <hr color="yellow" />
 
-![Saygın YILDIZ istatistikler](https://github-readme-stats.vercel.app/api?username=rowers7&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rowers7&theme=tokyonight)
+<details><summary>İstatistikler</summary>
+ ![Saygın YILDIZ istatistikler](https://github-readme-stats.vercel.app/api?username=rowers7&show_icons=true&theme=radical)
+</details>
 
-
+<details><summary>Kullanılan Diller</summary>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rowers7&theme=tokyonight)
+</details>
