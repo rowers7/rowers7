@@ -28,4 +28,3 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rowers7&theme=tokyonight)
 
-https://camo.githubusercontent.com/744d66cb53b9a3b71202f13c6eb0b2ff1dca91e3f33f43c9aca6c5151a1412e9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d686f72697a6f6e74616c2e737667
