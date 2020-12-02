@@ -27,7 +27,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 [Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)
 
-<hr>
+<hr style="height:1px; border:none; color:#000; background-color:#000;">
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -38,8 +38,3 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rowers7&theme=tokyonight)
-
-.hr {
-  border: 10px solid green;
-  border-radius: 5px;
-}
