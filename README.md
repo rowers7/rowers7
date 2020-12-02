@@ -39,3 +39,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rowers7&theme=tokyonight)
 
+hr {
+  border: 10px solid green;
+  border-radius: 5px;
+}
