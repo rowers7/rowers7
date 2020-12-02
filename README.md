@@ -1,6 +1,6 @@
 ### Kısa bir giriş...
 
-İsmim Saygın YILDIZ. Bilgisayar Mühendisliği 4.sınıf öğrencisiyim.
+İsmim Saygın YILDIZ. Bilgisayar Mühendisliği 4.sınıf öğrencisiyim. <br>
 Yaklaşık 1.5 yıldır Veri Bilimi ve Doğal Dil İşleme de çalışmalar ve araştırmalar yürütmekteyim.Bu alanlarda uzmanlaşmak istiyorum.<br>
 Bilişsel Bilimler alanında ilerleme hedefim var.
 
@@ -16,7 +16,8 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 [Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)
 
-
+<hr>
+<hr>
 
 ![Saygın YILDIZ istatistikler](https://github-readme-stats.vercel.app/api?username=rowers7&show_icons=true&theme=radical)
 
