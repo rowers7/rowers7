@@ -16,6 +16,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 [-Başka Başka Projeler ve Yazıları](https://github.com/rowers7/Project_and_Projects_Articles___)<br>
 
+*yükleniyor...*
 
 # 1-Projeler
 
