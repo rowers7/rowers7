@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Saygın YILDIZ istatistikler](https://github-readme-stats.vercel.app/api?username=rowers7&show_icons=true&theme=radical)
+![Saygın YILDIZ istatistikler](https://github-readme-stats.vercel.app/api?username=rowers7&show_icons=true&theme=radical)<br>
 
-![Görüntülenme](https://komarev.com/ghpvc/?username=rowers7)
+[Görüntülenme](https://komarev.com/ghpvc/?username=rowers7)
