@@ -34,7 +34,8 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 ## 2-Yazılar
 
 [Büyük Veri ve Veri Mühendisliği Günceleri]()<br>
-[NLP Yazı Serisi]()<br>
+[NLP Yazı Serisi]()<br><br>
+
 [Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)<br>
 [Github Markdown Ekstra]()
 
