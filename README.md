@@ -19,9 +19,9 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 ## 1-Projeler
 
-[Türkçe Veri Bilimi Yol Haritası ve Kaynak Havuzu </strong>](https://github.com/rowers7/Veri-Bilimi_Yol-Haritasi__ve__Kaynak-Havuzu) <br>
-[Projeler ve Proje Yazıları]()<br>
-[Veri Bilimi ve Yapay Zeka Bülteni - Data Vision]()
+[-Türkçe Veri Bilimi Yol Haritası ve Kaynak Havuzu>](https://github.com/rowers7/Veri-Bilimi_Yol-Haritasi__ve__Kaynak-Havuzu) <br><br>
+[-Projeler ve Proje Yazıları]()<br>
+[-Veri Bilimi ve Yapay Zeka Bülteni - Data Vision]()
 
 ### NLP
 [WhatsApp Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi)<br>
