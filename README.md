@@ -1,4 +1,8 @@
-### Hoşgeldiniz :)
+### Kısa bir giriş...
+
+İsmim Saygın YILDIZ. Bilgisayar Mühendisliği 4.sınıf öğrencisiyim. Veri Bilimi ve Doğal Dil İşleme de çalışmalar yürütmekteyim ve bu alanlarda uzmanlaşmak istiyorum.<br>
+İleride Bilişsel Bilimler alanında araştırmalar yapma hedefim var.
+
 
 <!--
 **rowers7/rowers7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
