@@ -13,6 +13,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 - 📫 Takip edilesi: [Medium](https://sayginyildiz.medium.com/)
 
 <hr>
+
 ## Projelerim
 ### NLP
 [WhatsApp Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi)<br>
