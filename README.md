@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on Natural Language Processing and Data Science
-- 📫 How to reach me: https://www.linkedin.com/in/sayginyildiz/
- -🔑 I  solve algorithm problems on Edabit and Hackerrank
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sayginyildiz/) <br>
+ -🔑 I  solve algorithm problems on <i>Edabit</i> and Hackerrank
 
 ![Saygın YILDIZ istatistikler](https://github-readme-stats.vercel.app/api?username=rowers7&show_icons=true&theme=radical)<br>
 
