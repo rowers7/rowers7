@@ -30,7 +30,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 ## 2-Yazılar
 
-[Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)
+[Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)<br>
 [Bülten]()
 
 <hr color="yellow" />
