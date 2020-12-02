@@ -12,13 +12,16 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 - 📫 Bana ulaşabileceğiniz adresler: [LinkedIn](https://www.linkedin.com/in/sayginyildiz/) ve [mail](sayginyil@gmail.com) <br>
 - 📫 Takip edilesi: [Medium](https://sayginyildiz.medium.com/)
 
-### Projelerim
+## Projelerim
+### NLP
 [WhatsApp Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi)<br>
-[Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)<br>
 [Telefon Yorumları Duygu Analizi](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)<br>
+### Diğer
+[Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)<br>
 
 
-### Yazılarım
+
+## Yazılarım
 
 [Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)
 
