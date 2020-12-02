@@ -17,7 +17,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 [-Başka Başka Projeler ve Yazıları]()<br>
 
 
-## 1-Projeler
+# 1-Projeler
 
 [-Türkçe Veri Bilimi Yol Haritası ve Kaynak Havuzu](https://github.com/rowers7/Veri-Bilimi_Yol-Haritasi__ve__Kaynak-Havuzu) <br><br>
 
@@ -31,7 +31,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 [MTA verileri ile Keşifsel Veri Analizi]()
 
 
-## 2-Yazılar
+# 2-Yazılar
 
 [Büyük Veri ve Veri Mühendisliği Günceleri]()<br>
 [NLP Yazı Serisi]()<br><br>
