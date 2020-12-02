@@ -10,8 +10,7 @@
 Here are some ideas to get you started:
 -->
 
-
-
+### Ne yapıyorum?
 
 
 - 🔭 I’m currently working on ...
