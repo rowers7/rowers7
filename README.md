@@ -28,7 +28,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 [Telefon Yorumları Duygu Analizi](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)<br>
 ### Diğer
 [Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)<br>
-[MTA verileri ile Keşifsel Veri Analizi]
+[MTA verileri ile Keşifsel Veri Analizi]()
 
 
 ## 2-Yazılar
