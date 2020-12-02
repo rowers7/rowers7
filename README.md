@@ -1,7 +1,8 @@
 ### Kısa bir giriş...
 
-İsmim Saygın YILDIZ. Bilgisayar Mühendisliği 4.sınıf öğrencisiyim. Veri Bilimi ve Doğal Dil İşleme de çalışmalar yürütmekteyim ve bu alanlarda uzmanlaşmak istiyorum.<br>
-İleride Bilişsel Bilimler alanında araştırmalar,projeler yapma hedefim var.
+İsmim Saygın YILDIZ. Bilgisayar Mühendisliği 4.sınıf öğrencisiyim.
+Yaklaşık 1.5 yıldır Veri Bilimi ve Doğal Dil İşleme de çalışmalar ve araştırmalar yürütmekteyim.Bu alanlarda uzmanlaşmak istiyorum.<br>
+Bilişsel Bilimler alanında ilerleme hedefim var.
 
 
 ### Ne yapıyorum?
