@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 ### Ne yapıyorum?
 
 
-- 🔭 I’m currently working on Natural Language Processing and Data Science
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sayginyildiz/) <br>
- -🔑 I  solve algorithm problems on <i>Edabit</i> and Hackerrank
+- 🔭 Şuan Doğal Dil İşleme ve Veri Bilimi üzerine projeler üzerine çalışıyorum.
+- 📫 Bana ulaşabileceğiniz adresler: [LinkedIn](https://www.linkedin.com/in/sayginyildiz/) \t [mail](sayginyil@gmail.com)
+ -🔑 I  solve algorithm problems on <strong>Edabit</strong> and <i>Edabit</i>
 
 ![Saygın YILDIZ istatistikler](https://github-readme-stats.vercel.app/api?username=rowers7&show_icons=true&theme=radical)<br>
 
