@@ -21,7 +21,6 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 ### Diğer
 [Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)<br>
 
-<hr>
 
 ## Yazılarım
 
