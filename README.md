@@ -25,9 +25,11 @@ Here are some ideas to get you started:
 ![Saygın YILDIZ istatistikler](https://github-readme-stats.vercel.app/api?username=rowers7&show_icons=true&theme=radical)<br>
 
 ![Görüntülenme](https://komarev.com/ghpvc/?username=rowers7&color=yellow&label=GÖRÜNTÜLENME)
+[![Github](https://img.shields.io/github/followers/rowers7?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-[![Github](https://img.shields.io/github/followers/rowers7?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rowers7&theme=tokyonight)
+
