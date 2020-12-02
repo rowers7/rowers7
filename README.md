@@ -14,13 +14,13 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 <hr>
 
-
+[-Başka Başka Projeler ve Yazıları]()<br>
 
 
 ## 1-Projeler
 
 [-Türkçe Veri Bilimi Yol Haritası ve Kaynak Havuzu](https://github.com/rowers7/Veri-Bilimi_Yol-Haritasi__ve__Kaynak-Havuzu) <br><br>
-[-Başka Başka Projeler ve Yazıları]()<br>
+
 [-Veri Bilimi ve Yapay Zeka Bülteni - Data Vision]()
 
 ### Doğal Dil İşleme (NLP)
