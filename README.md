@@ -4,18 +4,18 @@
 İleride Bilişsel Bilimler alanında araştırmalar,projeler yapma hedefim var.
 
 
-<!--
-**rowers7/rowers7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
 ### Ne yapıyorum?
 
 
-- 🔭 Şuan Doğal Dil İşleme ve Veri Bilimi üzerine projeler üzerine çalışıyorum.
-- 📫 Bana ulaşabileceğiniz adresler: [LinkedIn](https://www.linkedin.com/in/sayginyildiz/) \t [mail](sayginyil@gmail.com)
- -🔑 I  solve algorithm problems on <strong>Edabit</strong> and <i>Edabit</i>
+- 🔭 Şuan Doğal Dil İşleme ve Veri Bilimi üzerine projeler üzerinde çalışıyorum.
+- 📫 Bana ulaşabileceğiniz adresler: [LinkedIn](https://www.linkedin.com/in/sayginyildiz/) ve [mail](sayginyil@gmail.com) <br>
+- 📫 Takip edilesi: [Medium](https://sayginyildiz.medium.com/)
+
+### Yazılarım
+
+[Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)
+
+
 
 ![Saygın YILDIZ istatistikler](https://github-readme-stats.vercel.app/api?username=rowers7&show_icons=true&theme=radical)<br>
 
