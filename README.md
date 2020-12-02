@@ -12,6 +12,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 - 📫 Bana ulaşabileceğiniz adresler: [LinkedIn](https://www.linkedin.com/in/sayginyildiz/) ve [mail](sayginyil@gmail.com) <br>
 - 📫 Takip edilesi: [Medium](https://sayginyildiz.medium.com/)
 
+<hr>
 ## Projelerim
 ### NLP
 [WhatsApp Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi)<br>
