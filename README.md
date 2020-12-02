@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 
 ![Saygın YILDIZ istatistikler](https://github-readme-stats.vercel.app/api?username=rowers7&show_icons=true&theme=radical)
 
+![](https://komarev.com/ghpvc/?username=rowers7)
