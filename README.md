@@ -10,7 +10,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 - 🔭 Şuan Doğal Dil İşleme ve Veri Bilimi projeleri üzerinde çalışıyorum.
 - 📫 Bana ulaşabileceğiniz adresler: [LinkedIn](https://www.linkedin.com/in/sayginyildiz/) ve <strong>sayginyil@gmail.com</strong> <br>
-- 📫 Takip edilesi: [Medium](https://sayginyildiz.medium.com/) --- [Kaggle](https://www.kaggle.com/rowers7)
+- 📫 TDiğer Hesaplar: [Medium](https://sayginyildiz.medium.com/) --- [Kaggle](https://www.kaggle.com/rowers7)
 
 <hr>
 
