@@ -27,11 +27,11 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 [-Veri Bilimi ve Yapay Zeka Bülteni - Data Vision](https://www.datasciencearth.com/datavisionbeginning/)
 
 ### Doğal Dil İşleme (NLP)
-[WhatsApp Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi)<br>
-[Telefon Yorumları Duygu Analizi](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)<br>
+[Sosyal Medya Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi)  *yükleniyor...*  <br>
+[Telefon Yorumları Duygu Analizi](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *yükleniyor...*<br>
 ### Diğer
-[Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)<br>
-[MTA verileri ile Keşifsel Veri Analizi]()
+[Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *yükleniyor...*<br>
+[MTA verileri ile Keşifsel Veri Analizi] *yükleniyor...*()
 
 
 # 2-Yazılar
@@ -39,8 +39,8 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 [Büyük Veri ve Veri Mühendisliği Günceleri](https://sayginyildiz.medium.com/b%C3%BCy%C3%BCk-veri-ve-veri-m%C3%BChendisli%C4%9Fi-g%C3%BCnceleri-0-3aae5004ec27)<br>
 [NLP Yazı Serisi]()<br><br>
 
-[Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)<br>
-[Github Markdown Ekstra]()
+[Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)  *yükleniyor...*<br>
+[Github Markdown Ekstra]  *yükleniyor...*()
 
 
 <hr color="yellow" />
