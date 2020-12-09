@@ -27,11 +27,11 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 [-Veri Bilimi ve Yapay Zeka Bülteni - Data Vision](https://www.datasciencearth.com/datavisionbeginning/)
 
 ### Doğal Dil İşleme (NLP)
-[Sosyal Medya Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi)  *yükleniyor...*  <br>
+[Sosyal Medya Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi)<br>  *yükleniyor...*  
 [Telefon Yorumları Duygu Analizi](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *yükleniyor...*<br>
 ### Diğer
 [Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *yükleniyor...*<br>
-[MTA verileri ile Keşifsel Veri Analizi] *yükleniyor...*()
+[MTA verileri ile Keşifsel Veri Analizi]()  *yükleniyor...*
 
 
 # 2-Yazılar
