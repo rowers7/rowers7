@@ -12,7 +12,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://sayginyildiz.medium.com/)
 [![](https://img.shields.io/badge/Data%20Science%20Earth-%2312100E.svg?&style=flat)](https://www.datasciencearth.com/author/saygin/)
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sayginyil)
-[![](https://img.shields.io/badge/Email-semanurkps%40gmail.com-blue)](mailto:sayginyil@gmail.com)
+[![](https://img.shields.io/badge/Email-sayginyil%40gmail.com-blue)](mailto:sayginyil@gmail.com)
 
 <hr>
 
