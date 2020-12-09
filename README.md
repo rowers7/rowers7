@@ -8,9 +8,11 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 ### Ne yapıyorum?
 
 
-- 🔭 Şuan Doğal Dil İşleme ve Veri Bilimi projeleri üzerinde çalışıyorum.
-- 📫 Bana ulaşabileceğiniz adresler: [LinkedIn](https://www.linkedin.com/in/sayginyildiz/) ve <strong>sayginyil@gmail.com</strong> <br>
-- 📫 Diğer Hesaplar: [Medium](https://sayginyildiz.medium.com/) --- [Kaggle](https://www.kaggle.com/rowers7)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayginyildiz/)
+[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://sayginyildiz.medium.com/)
+[![](https://img.shields.io/badge/Data%20Science%20Earth-%2312100E.svg?&style=flat)](https://www.datasciencearth.com/author/saygin/)
+[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sayginyil)
+[![](https://img.shields.io/badge/Email-semanurkps%40gmail.com-blue)](mailto:sayginyil@gmail.com)
 
 <hr>
 
