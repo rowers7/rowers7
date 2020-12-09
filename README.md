@@ -58,3 +58,5 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rowers7&theme=tokyonight)
 </details>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=semanurkps" alt="semanurkps" /> </p>
