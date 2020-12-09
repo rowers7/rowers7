@@ -5,7 +5,7 @@ Yaklaşık 1.5 yıldır Veri Bilimi ve Doğal Dil İşleme de çalışmalar ve a
 Bilişsel Bilimler alanında ilerleme hedefim var.
 
 
-### Ne yapıyorum?
+### Dahası...
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayginyildiz/)
