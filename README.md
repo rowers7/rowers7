@@ -18,7 +18,6 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 [-Başka Başka Projeler ve Yazıları](https://github.com/rowers7/Project_and_Projects_Articles___)<br>
 
-*yükleniyor...*
 
 # 1-Projeler
 
@@ -40,7 +39,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 [NLP Yazı Serisi]()<br><br>
 
 [Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)  *yükleniyor...*<br>
-[Github Markdown Ekstra]  *yükleniyor...*()
+[Github Markdown Ekstra]()  *yükleniyor...*
 
 
 <hr color="yellow" />
