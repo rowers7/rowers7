@@ -51,8 +51,8 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 
  <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
-<code><atarget="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png"></a></code>
-<code><a href="" target="_blank"><img height="50" width="60px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true"></a></code>
+<code><a target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png"></a></code>
+<code><a target="_blank"><img height="50" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></a></code>
  
  
 <hr>
@@ -95,9 +95,3 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 </details>
 
 
-<code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
-
-<code><a target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png"</a>
- </code>
- 
-<code><a href="" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"</a></code>
