@@ -29,26 +29,26 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 [-Veri Bilimi ve Yapay Zeka Bülteni - Data Vision](https://www.datasciencearth.com/datavisionbeginning/)
 
 ### Doğal Dil İşleme (NLP)
-[Sosyal Medya Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *yükleniyor...*<br>
-[Telefon Yorumları Duygu Analizi](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *yükleniyor...*<br>
-[NLP İşlemleri](https://github.com/rowers7/NLP-Processes) *yükleniyor...* <br>
+[1.Sosyal Medya Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *yükleniyor...*<br>
+[2.Telefon Yorumları Duygu Analizi](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *yükleniyor...*<br>
+[3.NLP İşlemleri](https://github.com/rowers7/NLP-Processes) *yükleniyor...* <br>
 ### Diğer
-[Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *yükleniyor...* <br>
-[MTA verileri ile Keşifsel Veri Analizi]()  *yükleniyor...* <br>
-[Temel SQL Projeleri](https://github.com/rowers7/Projects_Basic-SQL) <br>
-[Diğer Projeler](https://github.com/rowers7/Projects_Basic) *yükleniyor...* <br>
-[Web Kazıma İşlemleri](https://github.com/rowers7/Web-Scraping-Processes)  *yükleniyor...* <br>
+[1.Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *yükleniyor...* <br>
+[2.MTA verileri ile Keşifsel Veri Analizi]()  *yükleniyor...* <br>
+[3.Temel SQL Projeleri](https://github.com/rowers7/Projects_Basic-SQL) <br>
+[4.Diğer Projeler](https://github.com/rowers7/Projects_Basic) *yükleniyor...* <br>
+[5.Web Kazıma İşlemleri](https://github.com/rowers7/Web-Scraping-Processes)  *yükleniyor...* <br>
 
 
 
 
 # 2-Yazılar
 
-[Büyük Veri ve Veri Mühendisliği Günceleri](https://sayginyildiz.medium.com/b%C3%BCy%C3%BCk-veri-ve-veri-m%C3%BChendisli%C4%9Fi-g%C3%BCnceleri-0-3aae5004ec27)<br>
-[NLP Yazı Serisi]()  *yükleniyor...*<br><br>
+[1.Büyük Veri ve Veri Mühendisliği Günceleri](https://sayginyildiz.medium.com/b%C3%BCy%C3%BCk-veri-ve-veri-m%C3%BChendisli%C4%9Fi-g%C3%BCnceleri-0-3aae5004ec27)<br>
+[2.NLP Yazı Serisi]()  *yükleniyor...*<br><br>
 
-[Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)<br>
-[Github Markdown Ekstra]()  *yükleniyor...*
+[1.Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)<br>
+[2.Github Markdown Ekstra]()  *yükleniyor...*
 
 
 
