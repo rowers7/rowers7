@@ -49,6 +49,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
  **👩‍💻 Çalıştığım Teknolojiler:**
  
+<hr>
 
  <code><a href="" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png"></a></code>
  <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
