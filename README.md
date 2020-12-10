@@ -48,10 +48,10 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 <br/>  **👩‍💻 Çalıştığım Teknolojiler:**
 
 <br>
-<code><a href="" target="_blank"><img height="50"src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
+<code><a href="" target="_blank"><img height="40"src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></a></code>
+<code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/01/pandas-1.jpg" /></a></code>
+<code><a href="" target="_blank"><img height="60" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/01/pandas-1.jpg" /></a></code>
 </br>
 <br>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
