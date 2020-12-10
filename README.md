@@ -59,7 +59,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" /></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://yganalyst.github.io/assets/images/crawling.png"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" /></a></code>
 
 <hr>
