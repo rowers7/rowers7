@@ -48,7 +48,6 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 <br/>  **👩‍💻 Çalıştığım Teknolojiler:**
 
 <br>
-<code><a href="" target="_blank"><img height="40"src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></a></code>
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" /></a></code>
@@ -64,7 +63,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 <code><a href="" target="_blank"><img height="50" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true"></a></code>
 </br><br>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" width="70px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true"></a></code>
+<code><a href="" target="_blank"><img height="50" width="60px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true"></a></code>
 
 
 
