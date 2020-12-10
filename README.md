@@ -59,6 +59,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 </br>
 <br>
+</br>
 <br>
 
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
