@@ -64,7 +64,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 <code><a href="" target="_blank"><img height="50" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true"></a></code>
 </br><br>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true"></a></code>
+<code><a href="" target="_blank"><img height="50" width="70px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true"></a></code>
 
 
 
