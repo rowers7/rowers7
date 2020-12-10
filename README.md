@@ -44,9 +44,17 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 
 <hr color="yellow" />
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-</p>
+<br/> **👩‍💻 Çalıştığım Teknolojiler:**
+
+<br>
+<code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dask/dask-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+
+</br>
 <hr color="yellow" />
 
 
@@ -61,4 +69,4 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rowers7&theme=tokyonight)
 </details>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=semanurkps" alt="semanurkps" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rowers7" alt="rowers7" /> </p>
