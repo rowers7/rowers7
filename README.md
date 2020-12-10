@@ -30,13 +30,13 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 ### Doğal Dil İşleme (NLP)
 [Sosyal Medya Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *yükleniyor...*<br>    
 [Telefon Yorumları Duygu Analizi](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *yükleniyor...*<br>
-[NLP işlemleri]() *yükleniyor...*<br>
+[NLP işlemleri](https://github.com/rowers7/NLP-Processes) *yükleniyor...* <br>
 ### Diğer
 [Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *yükleniyor...* <br>
 [MTA verileri ile Keşifsel Veri Analizi]()  *yükleniyor...* <br>
 [Temel SQL Projeleri](https://github.com/rowers7/Projects_Basic-SQL) <br>
-[Diğer Projeler](https://github.com/rowers7/Projects_Basic)  <br>
-[Web Kazıma İşlemleri]() *yükleniyor...* <br>
+[Diğer Projeler](https://github.com/rowers7/Projects_Basic) *yükleniyor...* <br>
+[Web Kazıma İşlemleri](https://github.com/rowers7/Web-Scraping-Processes)  *yükleniyor...* <br>
 
 
 
