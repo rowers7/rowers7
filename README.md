@@ -30,7 +30,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 ### Doğal Dil İşleme (NLP)
 [Sosyal Medya Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi)
-<code><a href="" target="_blank"><img height="50" src="https://miro.medium.com/max/3840/1*VnIi2KHdW8Jn3-FJyPCmfA.jpeg"></a></code>
+<code><a href="" target="_blank"><img height="30" src="https://miro.medium.com/max/3840/1*VnIi2KHdW8Jn3-FJyPCmfA.jpeg"></a></code>
 *yükleniyor...*<br>    
 [Telefon Yorumları Duygu Analizi](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *yükleniyor...*<br>
 [NLP işlemleri](https://github.com/rowers7/NLP-Processes) *yükleniyor...* <br>
