@@ -43,11 +43,10 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 [Github Markdown Ekstra]()  *yükleniyor...*
 
 
-<hr color="yellow" />
+<hr>
 
 <br/>  **👩‍💻 Çalıştığım Teknolojiler:**
 
-<br>
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png"</a>
 <code><a target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"</a>
@@ -57,29 +56,21 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 </code>
 <code><a href="" target="_blank"><img height="50" src="https://matplotlib.org/_static/logo2_compressed.svg" /></a></code>
 
-</br>
-<br>
-</br>
-<br>
+<hr>
 
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true"></a></code>
 
-</br>
 
-<br>
+<hr>
+
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" width="60px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true"></a></code>
 
 
 
-
-
-
-</br>
-
-<hr color="yellow" />
+<hr>
 
 
 
