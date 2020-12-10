@@ -15,7 +15,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sayginyil)
 [![](https://img.shields.io/badge/Email-sayginyil%40gmail.com-blue)](mailto:sayginyil@gmail.com)
 
-<div class="tenor-gif-embed" data-postid="14435518" data-share-method="host" data-width="100%" data-aspect-ratio="1.373015873015873"><a href="https://tenor.com/view/loading-bar-load-complete-gif-14435518">Loading Bar GIF</a> from <a href="https://tenor.com/search/loading-gifs">Loading GIFs</a></div>
+
 
 <hr>
 
