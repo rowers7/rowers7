@@ -58,7 +58,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 <code><a href="" target="_blank"><img height="50" src="https://matplotlib.org/_static/logo2_compressed.svg" /></a></code>
 
 </br>
-
+<br>
 <br>
 
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
