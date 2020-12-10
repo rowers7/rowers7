@@ -7,7 +7,6 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 ### Dahası...
 
-
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayginyildiz/)
 [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://sayginyildiz.medium.com/)
 [![](https://img.shields.io/badge/Data%20Science%20Earth-%2312100E.svg?&style=flat)](https://www.datasciencearth.com/author/saygin/)
