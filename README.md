@@ -54,6 +54,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
  <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png"></a></code>
 <code><a target="_blank"><img height="50" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQq3n-UlYH7Y4vrzE2HV_fEWpNDs_TraoAiQ&usqp=CAU" /></a></code>
  
  
 <hr>
@@ -61,7 +62,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" /></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://yganalyst.github.io/assets/images/crawling.png"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQq3n-UlYH7Y4vrzE2HV_fEWpNDs_TraoAiQ&usqp=CAU" /></a></code>
+
 
 <hr>
 
