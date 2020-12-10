@@ -57,6 +57,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 
 </br>
+
 [![postgresSQL](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true)](https://www.postgresql.org/)
 <hr color="yellow" />
 
