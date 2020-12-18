@@ -49,7 +49,7 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 [2.NLP Yazı Serisi](https://www.datasciencearth.com/dogal-dil-isleme-1-dogal-dil-islemeye-giris/)  <br><br>
 
 [1.Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)<br>
-[2.Web Kazıma Kütüphaneleri](https://medium.com/me/stats)
+[2.Web Kazıma Kütüphaneleri](https://medium.com/me/stats)<br>
 [3.Github Markdown Ekstra]()  *yükleniyor...*
 
 
