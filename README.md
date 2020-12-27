@@ -45,8 +45,8 @@ Bilişsel Bilimler alanında ilerleme hedefim var.
 
 # 2-Yazılar
 
-[1.Büyük Veri ve Veri Mühendisliği Günceleri](https://sayginyildiz.medium.com/b%C3%BCy%C3%BCk-veri-ve-veri-m%C3%BChendisli%C4%9Fi-g%C3%BCnceleri-0-3aae5004ec27)<br>
-[2.NLP Yazı Serisi](https://www.datasciencearth.com/dogal-dil-isleme-1-dogal-dil-islemeye-giris/)  <br><br>
+[1.Büyük Veri ve Veri Mühendisliği Günceleri#1: 5N 1K](https://sayginyildiz.medium.com/b%C3%BCy%C3%BCk-veri-ve-veri-m%C3%BChendisli%C4%9Fi-g%C3%BCnceleri-0-3aae5004ec27)<br>
+[Doğal Dil İşlemeye Giriş](https://www.datasciencearth.com/dogal-dil-isleme-1-dogal-dil-islemeye-giris/)  <br><br>
 
 [1.Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)<br>
 [2.Web Kazıma Kütüphaneleri](https://medium.com/me/stats)<br>
