@@ -4,7 +4,7 @@
 Yaklaşık 1.5 yıldır Veri Bilimi ve Doğal Dil İşleme de çalışmalar ve araştırmalar yürütmekteyim. Bu alanlarda uzmanlaşmak istiyorum.<br>
 Bilişsel Bilimler alanında ilerleme hedefim var.<br>
 
-Hayataki Mottom : Elimden Geleni Yapmak
+Elinden Geleni Yap!
 
 
 ### Dahası...
