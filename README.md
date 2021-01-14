@@ -29,7 +29,7 @@ Elinden Geleni Yap!
 [-Türkçe Veri Bilimi Yol Haritası ve Kaynak Havuzu](https://github.com/rowers7/Veri-Bilimi_Yol-Haritasi__ve__Kaynak-Havuzu) <br><br>
 
 [-Veri Bilimi ve Yapay Zeka Bülteni - Data Vision](https://www.datasciencearth.com/datavisionbeginning/)<br>
-[-Gıda İhlali]() *|secret|* 
+[-Gıda İhlali](https://www.datasciencearth.com/hileli-gidalar-arastirmasi-2020/) 
 
 ### Doğal Dil İşleme (NLP)
 [1.Sosyal Medya Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *|secret|*<br>
