@@ -53,7 +53,7 @@ Elinden Geleni Yap!
 [Doğal Dil İşlemeye Giriş](https://www.datasciencearth.com/dogal-dil-isleme-1-dogal-dil-islemeye-giris/) <br>
 [Doğal Dil İşlemenin Arka Planı, Zorlukları ve Daha Fazlası...](https://www.datasciencearth.com/dogal-dil-isleme-1-2-arka-plani-bilesenleri-pazar-payi-ve-zorluklari/) <br>
 [Doğal Dil İşleme ve String İşlemleri](https://www.datasciencearth.com/dogal-dil-isleme-1-3-dogal-dil-isleme-ve-pythonda-stringler/) <br>
-[Python'da Doğal Dil İşleme Kütüphaneleri](https://www.datasciencearth.com/dogal-dil-isleme-1-4-python-dogal-dil-isleme-kutuphaneleri/) loading... <br>
+[Python'da Doğal Dil İşleme Kütüphaneleri](https://www.datasciencearth.com/dogal-dil-isleme-1-4-python-dogal-dil-isleme-kutuphaneleri/) <br>
 
 [1.Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)<br>
 [2.Web Kazıma Kütüphaneleri](https://medium.com/me/stats)<br>
