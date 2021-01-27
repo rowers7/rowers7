@@ -55,9 +55,9 @@ Elinden Geleni Yap!
 [3.Doğal Dil İşleme ve String İşlemleri](https://www.datasciencearth.com/dogal-dil-isleme-1-3-dogal-dil-isleme-ve-pythonda-stringler/) <br>
 [4.Python'da Doğal Dil İşleme Kütüphaneleri](https://www.datasciencearth.com/dogal-dil-isleme-1-4-python-dogal-dil-isleme-kutuphaneleri/) <br>
 [5.Doğal Dil İşleme için Düzenli İfadeler ve Dosya İşlemleri]() loading... <br>
-[6.Doğal Dil İşleme Veriyi Hazırlama-1]() loading... <br>
-[7.Doğal Dil İşleme Veriyi Hazırlama-2]() loading... <br>
-
+[6.Doğal Dil İşleme(DDİ) Veriyi Hazırlama-1]() loading... <br>
+[7.Doğal Dil İşleme(DDİ) Veriyi Hazırlama-2]() loading... <br>
+[8.Temel DDİ Uygulamaları]() loading... <br>
 
 [1.Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)<br>
 [2.Web Kazıma Kütüphaneleri](https://medium.com/me/stats)<br>
