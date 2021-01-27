@@ -57,7 +57,8 @@ Elinden Geleni Yap!
 [5.Doğal Dil İşleme için Düzenli İfadeler ve Dosya İşlemleri]() loading... <br>
 [6.Doğal Dil İşleme(DDİ) Veriyi Hazırlama-1]() loading... <br>
 [7.Doğal Dil İşleme(DDİ) Veriyi Hazırlama-2]() loading... <br>
-[8.Temel DDİ Uygulamaları]() loading... <br>
+[8.DDİ Özellik Çıkarımları ve Matematiksel İşlemler]() loading... <br>
+[9.Temel DDİ Uygulamaları]() loading... <br>
 
 [1.Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)<br>
 [2.Web Kazıma Kütüphaneleri](https://medium.com/me/stats)<br>
