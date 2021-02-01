@@ -38,10 +38,11 @@ Elinden Geleni Yap!
 [3.NLP İşlemleri](https://github.com/rowers7/NLP-Processes) *yükleniyor...* <br>
 ### Diğer
 [1.Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *yükleniyor...* <br>
-[2.MTA verileri ile Keşifsel Veri Analizi](https://github.com/rowers7/Project_EDA-with_MTA_data)  <br>
-[3.Temel SQL Projeleri](https://github.com/rowers7/Projects_Basic-SQL) <br>
-[4.Diğer Projeler](https://github.com/rowers7/Projects_Basic)  <br>
-[5.Web Kazıma İşlemleri](https://github.com/rowers7/Web-Scraping-Processes)  *yükleniyor...* <br>
+[2.Bilgisayar Kategori Tahmin Analizi]()  *yükleniyor...* <br>
+[3.MTA verileri ile Keşifsel Veri Analizi](https://github.com/rowers7/Project_EDA-with_MTA_data)  <br>
+[4.Temel SQL Projeleri](https://github.com/rowers7/Projects_Basic-SQL) <br>
+[5.Diğer Projeler](https://github.com/rowers7/Projects_Basic)  <br>
+[6.Web Kazıma İşlemleri](https://github.com/rowers7/Web-Scraping-Processes)  *yükleniyor...* <br>
 
 
 
