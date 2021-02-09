@@ -84,7 +84,7 @@ Elinden Geleni Yap!
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" /></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://yganalyst.github.io/assets/images/crawling.png"></a></code>
-
+<code><a href="" target="_blank"><img height="50" src="https://miro.medium.com/max/1200/0*RP3QEulh5aepQ_Ef.png"></a></code>
 
 <hr>
 
