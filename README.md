@@ -62,7 +62,7 @@ Elinden Geleni Yap!
 [9.Temel DDİ Uygulamaları]() loading... <br>
 
 [1.Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)<br>
-[2.Web Kazıma Kütüphaneleri](https://medium.com/me/stats)<br>
+[2.Web Kazıma Kütüphaneleri](https://sayginyildiz.medium.com/web-kaz%C4%B1ma-k%C3%BCt%C3%BCphaneleri-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmas%C4%B1-%C3%A7eviri-7dc474931052)<br>
 [3.Github Markdown Ekstra]()  *yükleniyor...*
 
 
