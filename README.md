@@ -2,8 +2,8 @@
 
 Selamlar.<br>
 İsmim Saygın YILDIZ. Bilgisayar Mühendisliği 4.sınıf öğrencisiyim. <br>
-Yaklaşık 1.5 yıldır Veri Bilimi ve Doğal Dil İşleme de çalışmalar ve araştırmalar yürütmekteyim. Bu alanlarda uzmanlaşmak istiyorum.<br>
-Bilişsel Bilimler alanında ilerleme hedefim var.<br>
+Veri Bilimi ve Doğal Dil İşleme alanlarında uzmanlaşmak istiyorum.<br>
+Bilişsel Bilimler alanında çalışmalar yapmak istiyorum<br>
 
 Elinden Geleni Yap!
 
