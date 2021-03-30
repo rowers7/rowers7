@@ -8,6 +8,7 @@ Bilişsel Bilimler alanında çalışmalar yapmak istiyorum<br>
 Elinden Geleni Yap!
 
 
+
 ### Dahası...
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayginyildiz/)
@@ -124,5 +125,6 @@ Elinden Geleni Yap!
 
  
 
-
+<br>
+Baltanı bile!
 
