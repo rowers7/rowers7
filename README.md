@@ -3,7 +3,7 @@
 Selamlar.<br>
 İsmim Saygın YILDIZ. Bilgisayar Mühendisliği 4.sınıf öğrencisiyim. <br>
 Veri Bilimi ve Doğal Dil İşleme alanlarında araştırmalar yapıyorum.<br>
-Bilişsel Bilimler alanında çalışmalar yapmak istiyorum<br>
+Bilişsel Bilimler alanında çalışmalar yapmak istiyorum.<br>
 
 Elinden Geleni Yap!
 
