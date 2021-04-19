@@ -24,7 +24,10 @@
 
 <hr>
 
-* [Başka Başka Projeler ve Yazıları](https://github.com/rowers7/Project_and_Projects_Articles___)<br>
+# 0-Resources
+
+* [1. NLP İşlemleri](https://github.com/rowers7/NLP-Processes) *yükleniyor...* <br>
+* [2. Web Scrapping İşlemleri]() *yükleniyor...* <br>
 
 
 # 1-Projects
@@ -33,17 +36,20 @@
 * [Veri Bilimi ve Yapay Zeka Bülteni - Data Vision](https://www.datasciencearth.com/datavisionbeginning/)<br>
 * [Gıda İhlali](https://www.datasciencearth.com/hileli-gidalar-arastirmasi-2020/) 
 
+<br>
+
+* [Başka Başka Projeler ve Yazıları](https://github.com/rowers7/Project_and_Projects_Articles___)
+
 ### Natural Language Processing
-* [1. Sosyal Medya Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *|secret|*<br>
+* [1. WhatsApp Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *|secret|*<br>
 * [2. RNN ile Telefon Yorumları Duygu Analizi](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *lading...*<br>
-* [3. NLP İşlemleri](https://github.com/rowers7/NLP-Processes) *yükleniyor...* <br>
 ### Others
-* [1. Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *lading...* <br>
-* [2. Bilgisayar Kategori Tahmin Analizi]()  *yükleniyor...* <br>
-* [3. MTA verileri ile Keşifsel Veri Analizi](https://github.com/rowers7/Project_EDA-with_MTA_data)  <br>
+* [1. Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *loading...* <br>
+* [2. Bilgisayar Kategori Tahmin Analizi]()  *loading...* <br>
+* [3. EDA with MTA Data](https://github.com/rowers7/Project_EDA-with_MTA_data)  <br>
 * [4. Temel SQL Projeleri](https://github.com/rowers7/Projects_Basic-SQL) <br>
-* [5. Diğer Projeler](https://github.com/rowers7/Projects_Basic)  <br>
-* [6. Web Kazıma İşlemleri](https://github.com/rowers7/Web-Scraping-Processes)  *lading...* <br>
+* [5. Basic Projects (iris,titanic...) ](https://github.com/rowers7/Projects_Basic)  <br>
+* [6. Mini Web Scrapping Projects](https://github.com/rowers7/Web-Scraping-Processes)  *loading...* <br>
 
 
 
