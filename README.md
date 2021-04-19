@@ -1,11 +1,5 @@
-### Kısa bir giriş...
-
-Selamlar.<br>
-İsmim Saygın YILDIZ. Bilgisayar Mühendisliği 4.sınıf öğrencisiyim. <br>
-Veri Bilimi ve Doğal Dil İşleme alanlarında araştırmalar yapıyorum.<br>
-Bilişsel Bilimler alanında çalışmalar yapmak istiyorum.<br>
-
-Elinden Geleni Yap!
+<h1 align="center"> Hi <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm SAYGIN 
+<h3 align="center"> Natural Language Processing and Data Science Researcher, Computer Engineering at University(Senior) </h3>
 
 
 
