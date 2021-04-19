@@ -50,7 +50,7 @@
 
 # 2-Articles
 
-* [Büyük Veri ve Veri Mühendisliği Günceleri](https://sayginyildiz.medium.com/b%C3%BCy%C3%BCk-veri-ve-veri-m%C3%BChendisli%C4%9Fi-g%C3%BCnceleri-0-3aae5004ec27)<br>
+* [Büyük Veri ve Veri Mühendisliği Günceleri](https://sayginyildiz.medium.com/b%C3%BCy%C3%BCk-veri-ve-veri-m%C3%BChendisli%C4%9Fi-g%C3%BCnceleri-0-3aae5004ec27)<br><br>
 * [1. Doğal Dil İşleme Nedir?](https://www.datasciencearth.com/dogal-dil-isleme-1-dogal-dil-islemeye-giris/) <br>
 * [2. Doğal Dil İşlemenin Arka Planı, Zorlukları ve Daha Fazlası...](https://www.datasciencearth.com/dogal-dil-isleme-1-2-arka-plani-bilesenleri-pazar-payi-ve-zorluklari/) <br>
 * [3. Doğal Dil İşleme ve String İşlemleri](https://www.datasciencearth.com/dogal-dil-isleme-1-3-dogal-dil-isleme-ve-pythonda-stringler/) <br>
@@ -60,7 +60,7 @@
 * [7. Temel DDİ Uygulamaları - POS]() loading... <br>
 * [8. Doğal Dil İşleme için Düzenli İfadeler ve Dosya İşlemleri]() loading... <br>
 * [9. Temel DDİ Uygulamaları NER]() loading... <br>
-* [10. Embedding Yöntemleri]() loading... <br>
+* [10. Embedding Yöntemleri]() loading... <br><br>
 
 
 * [1. Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)<br>
