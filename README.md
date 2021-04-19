@@ -42,7 +42,8 @@
 
 * [Türkçe Veri Bilimi Yol Haritası ve Kaynak Havuzu](https://github.com/rowers7/Veri-Bilimi_Yol-Haritasi__ve__Kaynak-Havuzu) <br>
 * [Veri Bilimi ve Yapay Zeka Bülteni - Data Vision](https://www.datasciencearth.com/datavisionbeginning/)<br>
-* [Gıda İhlali](https://www.datasciencearth.com/hileli-gidalar-arastirmasi-2020/) 
+* [Gıda İhlali](https://www.datasciencearth.com/hileli-gidalar-arastirmasi-2020/) <br>
+* [Agenda's Impact on Society (Twitter, News...) graduation project]() *loading...*
 
 
 ### Natural Language Processing
