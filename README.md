@@ -26,7 +26,7 @@
 
 # A| Resources and Processes
 
-<details><summary>Pandora</summary>
+<details><summary>Black Box</summary>
  
 * [1. NLP](https://github.com/rowers7/NLP-Processes) *loading...* 
 * [2. Web Scrapping]() *loading...* 
@@ -35,7 +35,7 @@
 <br>
 
 * [Nice Projects and Articles](https://github.com/rowers7/Project_and_Projects_Articles___)
-* 
+
 </details>
 
 # B| Projects
