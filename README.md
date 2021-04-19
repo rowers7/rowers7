@@ -24,13 +24,13 @@
 
 <hr>
 
-# 0-Resources
+# A. Resources and Processes
 
 * [1. NLP İşlemleri](https://github.com/rowers7/NLP-Processes) *yükleniyor...* <br>
 * [2. Web Scrapping İşlemleri]() *yükleniyor...* <br>
 
 
-# 1-Projects
+# B. Projects
 
 * [Türkçe Veri Bilimi Yol Haritası ve Kaynak Havuzu](https://github.com/rowers7/Veri-Bilimi_Yol-Haritasi__ve__Kaynak-Havuzu) <br>
 * [Veri Bilimi ve Yapay Zeka Bülteni - Data Vision](https://www.datasciencearth.com/datavisionbeginning/)<br>
@@ -54,7 +54,7 @@
 
 
 
-# 2-Articles
+# C. Articles
 
 <details><summary>📚 Natural Language Processing</summary>
  <br>
