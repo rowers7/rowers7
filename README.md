@@ -44,7 +44,6 @@
 * [Veri Bilimi ve Yapay Zeka Bülteni - Data Vision](https://www.datasciencearth.com/datavisionbeginning/)<br>
 * [Gıda İhlali](https://www.datasciencearth.com/hileli-gidalar-arastirmasi-2020/) 
 
-<br>
 
 ### Natural Language Processing
 * [1. WhatsApp Sentiment Analysis and EDA](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *|secret|*<br>
