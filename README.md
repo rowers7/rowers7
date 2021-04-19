@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **sayginyil@gmail.com**
 
-### Dahası...
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayginyildiz/)
 [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://sayginyildiz.medium.com/)
@@ -27,29 +26,29 @@
 [-Başka Başka Projeler ve Yazıları](https://github.com/rowers7/Project_and_Projects_Articles___)<br>
 
 
-# 1-Projeler
+# 1-Projects
 
 [-Türkçe Veri Bilimi Yol Haritası ve Kaynak Havuzu](https://github.com/rowers7/Veri-Bilimi_Yol-Haritasi__ve__Kaynak-Havuzu) <br><br>
 
 [-Veri Bilimi ve Yapay Zeka Bülteni - Data Vision](https://www.datasciencearth.com/datavisionbeginning/)<br>
 [-Gıda İhlali](https://www.datasciencearth.com/hileli-gidalar-arastirmasi-2020/) 
 
-### Doğal Dil İşleme (NLP)
-[1.Sosyal Medya Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *|secret|*<br>
-[2.RNN ile Telefon Yorumları Duygu Analizi](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *yükleniyor...*<br>
-[3.NLP İşlemleri](https://github.com/rowers7/NLP-Processes) *yükleniyor...* <br>
-### Diğer
-[1.Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *yükleniyor...* <br>
-[2.Bilgisayar Kategori Tahmin Analizi]()  *yükleniyor...* <br>
-[3.MTA verileri ile Keşifsel Veri Analizi](https://github.com/rowers7/Project_EDA-with_MTA_data)  <br>
-[4.Temel SQL Projeleri](https://github.com/rowers7/Projects_Basic-SQL) <br>
-[5.Diğer Projeler](https://github.com/rowers7/Projects_Basic)  <br>
-[6.Web Kazıma İşlemleri](https://github.com/rowers7/Web-Scraping-Processes)  *yükleniyor...* <br>
+### Natural Language Processing
+* [1. Sosyal Medya Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *|secret|*<br>
+* [2. RNN ile Telefon Yorumları Duygu Analizi](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *yükleniyor...*<br>
+* [3. NLP İşlemleri](https://github.com/rowers7/NLP-Processes) *yükleniyor...* <br>
+### Others
+* [1. Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *yükleniyor...* <br>
+* [2. Bilgisayar Kategori Tahmin Analizi]()  *yükleniyor...* <br>
+* [3. MTA verileri ile Keşifsel Veri Analizi](https://github.com/rowers7/Project_EDA-with_MTA_data)  <br>
+* [4. Temel SQL Projeleri](https://github.com/rowers7/Projects_Basic-SQL) <br>
+* [5. Diğer Projeler](https://github.com/rowers7/Projects_Basic)  <br>
+* [6. Web Kazıma İşlemleri](https://github.com/rowers7/Web-Scraping-Processes)  *yükleniyor...* <br>
 
 
 
 
-# 2-Yazılar
+# 2-Articles
 
 [Büyük Veri ve Veri Mühendisliği Günceleri](https://sayginyildiz.medium.com/b%C3%BCy%C3%BCk-veri-ve-veri-m%C3%BChendisli%C4%9Fi-g%C3%BCnceleri-0-3aae5004ec27)<br>
 <br>
