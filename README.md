@@ -115,7 +115,15 @@ Elinden Geleni Yap!
 
 <hr>
 
+<br/>  
 
+ [![Mert's github activity graph](https://activity-graph.herokuapp.com/graph?username=rowers7&theme=xcode)](https://git.io/mertbozkir)
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rowers7&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rowers7&theme=tokyonight" />
+</p>
+<br/>  
 
 <details><summary>İstatistikler</summary>
  
