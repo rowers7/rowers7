@@ -46,15 +46,14 @@
 
 <br>
 
-
 ### Natural Language Processing
-* [1. WhatsApp Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *|secret|*<br>
-* [2. RNN ile Telefon Yorumları Duygu Analizi](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *loading...*<br>
+* [1. WhatsApp Sentiment Analysis and EDA](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *|secret|*<br>
+* [2. Phone Comments Sentiment Analysis with RNN](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *loading...*<br>
 ### Others
-* [1. Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *loading...* <br>
-* [2. Bilgisayar Kategori Tahmin Analizi]()  *loading...* <br>
+* [1. SmartPhones Price Predict (Regression)](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *loading...* <br>
+* [2. Computer Category Predict (Classification)]()  *loading...* <br>
 * [3. EDA with MTA Data](https://github.com/rowers7/Project_EDA-with_MTA_data)  <br>
-* [4. Temel SQL Projeleri](https://github.com/rowers7/Projects_Basic-SQL) <br>
+* [4. Basic SQL Projects](https://github.com/rowers7/Projects_Basic-SQL) <br>
 * [5. Basic Projects (iris,titanic...) ](https://github.com/rowers7/Projects_Basic)  <br>
 * [6. Mini Web Scrapping Projects](https://github.com/rowers7/Web-Scraping-Processes)  *loading...* <br>
 
