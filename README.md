@@ -26,9 +26,10 @@
 
 # A. Resources and Processes
 
-* [1. NLP İşlemleri](https://github.com/rowers7/NLP-Processes) *yükleniyor...* <br>
-* [2. Web Scrapping İşlemleri]() *yükleniyor...* <br>
+* [1. NLP](https://github.com/rowers7/NLP-Processes) *loading...* <br>
+* [2. Web Scrapping]() *loading...* <br><br>
 
+* [Güzel Projeler ve Yazılar](https://github.com/rowers7/Project_and_Projects_Articles___)
 
 # B. Projects
 
@@ -38,7 +39,6 @@
 
 <br>
 
-* [Başka Başka Projeler ve Yazıları](https://github.com/rowers7/Project_and_Projects_Articles___)
 
 ### Natural Language Processing
 * [1. WhatsApp Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *|secret|*<br>
