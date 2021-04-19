@@ -51,6 +51,7 @@
 # 2-Articles
 
 <details><summary>📚 Natural Language Processing</summary>
+ <br>
  
 * [1. Doğal Dil İşleme Nedir?](https://www.datasciencearth.com/dogal-dil-isleme-1-dogal-dil-islemeye-giris/) 
 * [2. Doğal Dil İşlemenin Arka Planı, Zorlukları ve Daha Fazlası...](https://www.datasciencearth.com/dogal-dil-isleme-1-2-arka-plani-bilesenleri-pazar-payi-ve-zorluklari/) 
@@ -69,6 +70,7 @@
 </details>
 
 <details><summary>📚 Others</summary>
+ <br>
  
 * [1. Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)
 * [2. Web Kazıma Kütüphaneleri](https://sayginyildiz.medium.com/web-kaz%C4%B1ma-k%C3%BCt%C3%BCphaneleri-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmas%C4%B1-%C3%A7eviri-7dc474931052)
