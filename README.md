@@ -50,9 +50,7 @@
 
 # 2-Articles
 
-
-
-<details><summary>📚 Natural Language Processing </summary>
+<details><summary>📚 Natural Language Processing</summary>
  
 * [1. Doğal Dil İşleme Nedir?](https://www.datasciencearth.com/dogal-dil-isleme-1-dogal-dil-islemeye-giris/) 
 * [2. Doğal Dil İşlemenin Arka Planı, Zorlukları ve Daha Fazlası...](https://www.datasciencearth.com/dogal-dil-isleme-1-2-arka-plani-bilesenleri-pazar-payi-ve-zorluklari/) 
@@ -60,7 +58,9 @@
 * [4. Python'da Doğal Dil İşleme Kütüphaneleri](https://www.datasciencearth.com/dogal-dil-isleme-1-4-python-dogal-dil-isleme-kutuphaneleri/) 
 * [5. Doğal Dil İşleme(DDİ) Veriyi Hazırlama-1](https://www.datasciencearth.com/dogal-dil-isleme1-5-veri-on-isleme-1/) 
 * [6. Doğal Dil İşleme(DDİ) Veriyi Hazırlama-2](https://www.datasciencearth.com/dogal-dil-isleme16-veri-on-isleme-2/)
-* [7. Temel DDİ Uygulamaları - POS](https://www.datasciencearth.com/dogal-dil-isleme1-7-part-of-speech-tagging-ve-sakli-markov-modeli/)<br><br>
+* [7. Temel DDİ Uygulamaları - POS](https://www.datasciencearth.com/dogal-dil-isleme1-7-part-of-speech-tagging-ve-sakli-markov-modeli/)
+
+<br><br>
 
 * [8. Doğal Dil İşleme için Düzenli İfadeler ve Dosya İşlemleri]() loading... 
 * [9. Temel DDİ Uygulamaları NER]() loading... 
@@ -76,9 +76,9 @@
 
 <br><br>
 
-* [4. Veri Bilimi ve Psikoloji]()  *yükleniyor...* 
-* [5. Github Markdown Ekstra]()  *yükleniyor...* 
-* [6. Python ile Firebase Kullanımı]()  *yükleniyor...* 
+* [4. Veri Bilimi ve Psikoloji]()  *loading...* 
+* [5. Github Markdown Ekstra]()  *loading...* 
+* [6. Python ile Firebase Kullanımı]()  *loading...* 
 
 </details>
 
