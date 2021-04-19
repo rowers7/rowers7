@@ -24,17 +24,17 @@
 
 <hr>
 
-# A. Resources and Processes
+# A| Resources and Processes
 
-* [1| NLP](https://github.com/rowers7/NLP-Processes) *loading...* <br>
-* [2| Web Scrapping]() *loading...* <br>
-* [3| Exploratory Data Analysis]() *loading...* 
-* 
+* [1. NLP](https://github.com/rowers7/NLP-Processes) *loading...* <br>
+* [2. Web Scrapping]() *loading...* <br>
+* [3. Exploratory Data Analysis]() *loading...* 
+
 <br>
 
 * [Güzel Projeler ve Yazılar](https://github.com/rowers7/Project_and_Projects_Articles___)
 
-# B. Projects
+# B| Projects
 
 * [Türkçe Veri Bilimi Yol Haritası ve Kaynak Havuzu](https://github.com/rowers7/Veri-Bilimi_Yol-Haritasi__ve__Kaynak-Havuzu) <br>
 * [Veri Bilimi ve Yapay Zeka Bülteni - Data Vision](https://www.datasciencearth.com/datavisionbeginning/)<br>
@@ -57,7 +57,7 @@
 
 
 
-# C. Articles
+# C| Articles
 
 <details><summary>📚 Natural Language Processing</summary>
  <br>
