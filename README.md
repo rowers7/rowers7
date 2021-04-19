@@ -47,7 +47,7 @@
 
 
 ### Natural Language Processing
-* [1. WhatsApp Sentiment Analysis and EDA](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *|secret|*<br>
+* [1. WhatsApp Sentiment Analysis and EDA](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *loading...*<br>
 * [2. Phone Comments Sentiment Analysis with RNN](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *loading...*<br>
 ### Others
 * [1. SmartPhones Price Predict (Regression)](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *loading...* <br>
