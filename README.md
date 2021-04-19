@@ -26,8 +26,8 @@
 
 # A. Resources and Processes
 
-* [1. NLP](https://github.com/rowers7/NLP-Processes) *loading...* <br>
-* [2. Web Scrapping]() *loading...* <br><br>
+* [1. NLP](https://github.com/rowers7/NLP-Processes) *loading...* 
+* [2. Web Scrapping]() *loading...* <br>
 
 * [Güzel Projeler ve Yazılar](https://github.com/rowers7/Project_and_Projects_Articles___)
 
