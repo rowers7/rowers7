@@ -49,7 +49,7 @@
 
 ### Natural Language Processing
 * [1. WhatsApp Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *|secret|*<br>
-* [2. RNN ile Telefon Yorumları Duygu Analizi](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *lading...*<br>
+* [2. RNN ile Telefon Yorumları Duygu Analizi](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *loading...*<br>
 ### Others
 * [1. Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *loading...* <br>
 * [2. Bilgisayar Kategori Tahmin Analizi]()  *loading...* <br>
