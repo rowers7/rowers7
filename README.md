@@ -121,16 +121,18 @@
 <code><a href="" target="_blank"><img height="50" width="60px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true"></a></code>
 
 
-
 <hr>
 
 </details>
 
-<details><summary>İstatistikler</summary>
+
  
- ![Saygın YILDIZ istatistikler](https://github-readme-stats.vercel.app/api?username=rowers7&show_icons=true&theme=radical)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rowers7&theme=tokyonight)
-</details>
+ <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rowers7&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rowers7&theme=tokyonight" />
+  
+</p>
+
 
  
 
