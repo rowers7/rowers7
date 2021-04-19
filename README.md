@@ -35,15 +35,15 @@
 
 ### Natural Language Processing
 * [1. Sosyal Medya Durum Duygu Analizi](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *|secret|*<br>
-* [2. RNN ile Telefon Yorumları Duygu Analizi](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *yükleniyor...*<br>
+* [2. RNN ile Telefon Yorumları Duygu Analizi](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *lading...*<br>
 * [3. NLP İşlemleri](https://github.com/rowers7/NLP-Processes) *yükleniyor...* <br>
 ### Others
-* [1. Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *yükleniyor...* <br>
+* [1. Telefon Fiyat Tahmin Analizi](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *lading...* <br>
 * [2. Bilgisayar Kategori Tahmin Analizi]()  *yükleniyor...* <br>
 * [3. MTA verileri ile Keşifsel Veri Analizi](https://github.com/rowers7/Project_EDA-with_MTA_data)  <br>
 * [4. Temel SQL Projeleri](https://github.com/rowers7/Projects_Basic-SQL) <br>
 * [5. Diğer Projeler](https://github.com/rowers7/Projects_Basic)  <br>
-* [6. Web Kazıma İşlemleri](https://github.com/rowers7/Web-Scraping-Processes)  *yükleniyor...* <br>
+* [6. Web Kazıma İşlemleri](https://github.com/rowers7/Web-Scraping-Processes)  *lading...* <br>
 
 
 
@@ -60,7 +60,7 @@
 * [6. Doğal Dil İşleme(DDİ) Veriyi Hazırlama-2](https://www.datasciencearth.com/dogal-dil-isleme16-veri-on-isleme-2/)
 * [7. Temel DDİ Uygulamaları - POS](https://www.datasciencearth.com/dogal-dil-isleme1-7-part-of-speech-tagging-ve-sakli-markov-modeli/)
 
-<br><br>
+<br>
 
 * [8. Doğal Dil İşleme için Düzenli İfadeler ve Dosya İşlemleri]() loading... 
 * [9. Temel DDİ Uygulamaları NER]() loading... 
@@ -74,7 +74,7 @@
 * [2. Web Kazıma Kütüphaneleri](https://sayginyildiz.medium.com/web-kaz%C4%B1ma-k%C3%BCt%C3%BCphaneleri-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmas%C4%B1-%C3%A7eviri-7dc474931052)
 * [3. Büyük Veri ve Veri Mühendisliği Günceleri](https://sayginyildiz.medium.com/b%C3%BCy%C3%BCk-veri-ve-veri-m%C3%BChendisli%C4%9Fi-g%C3%BCnceleri-0-3aae5004ec27)
 
-<br><br>
+<br>
 
 * [4. Veri Bilimi ve Psikoloji]()  *loading...* 
 * [5. Github Markdown Ekstra]()  *loading...* 
