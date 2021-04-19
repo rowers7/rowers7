@@ -51,8 +51,7 @@
 # 2-Articles
 
 * [Büyük Veri ve Veri Mühendisliği Günceleri](https://sayginyildiz.medium.com/b%C3%BCy%C3%BCk-veri-ve-veri-m%C3%BChendisli%C4%9Fi-g%C3%BCnceleri-0-3aae5004ec27)<br>
-<br>
-[1. Doğal Dil İşleme Nedir?](https://www.datasciencearth.com/dogal-dil-isleme-1-dogal-dil-islemeye-giris/) <br>
+* [1. Doğal Dil İşleme Nedir?](https://www.datasciencearth.com/dogal-dil-isleme-1-dogal-dil-islemeye-giris/) <br>
 * [2. Doğal Dil İşlemenin Arka Planı, Zorlukları ve Daha Fazlası...](https://www.datasciencearth.com/dogal-dil-isleme-1-2-arka-plani-bilesenleri-pazar-payi-ve-zorluklari/) <br>
 * [3. Doğal Dil İşleme ve String İşlemleri](https://www.datasciencearth.com/dogal-dil-isleme-1-3-dogal-dil-isleme-ve-pythonda-stringler/) <br>
 * [4. Python'da Doğal Dil İşleme Kütüphaneleri](https://www.datasciencearth.com/dogal-dil-isleme-1-4-python-dogal-dil-isleme-kutuphaneleri/) <br>
