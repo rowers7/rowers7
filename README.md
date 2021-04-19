@@ -1,7 +1,14 @@
 <h1 align="center"> Hi <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm SAYGIN 
-<h3 align="center"> Natural Language Processing and Data Science Researcher, Computer Engineering at University(Senior) </h3>
+<h3 align="center"> Natural Language Processing and Data Science Researcher, Computer Engineering at University (Senior) </h3>
 
 
+- 🔭 I’m currently working on **Data Science, Natural Language Processing, ML and DL**
+
+- 🌱 I’m currently learning **Fuzzy Logic, Reinforcement Learning, Imagine Processing**
+
+- 📝 I'm currently developing **Feature Engineering, ML Algorithms**
+
+- 📫 How to reach me **sayginyil@gmail.com**
 
 ### Dahası...
 
