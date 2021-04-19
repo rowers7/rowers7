@@ -97,7 +97,7 @@
 </details>
 
 
-<details><summary>💻 Çalıştığım Teknolojiler</summary>
+<details><summary>💻 Technologies I Work On</summary>
  
 <hr>
 
