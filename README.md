@@ -1,5 +1,5 @@
 <h1 align="center"> Hi <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm SAYGIN 
-<h3 align="center"> Natural Language Processing and Data Science Researcher, Computer Engineering at University (Senior) </h3>
+<h3 align="center"> Natural Language Processing and Data Science Researcher, Computer Engineering at University (Senior), Sociology Student (Freshman)  </h3>
 
 
 - 🔭 I’m currently working on **Data Science, Natural Language Processing, ML and DL**
@@ -77,7 +77,8 @@
 <br>
 
 * [9. Temel DDİ Uygulamaları NER]() loading... 
-* [10. Embedding Yöntemleri]() loading... 
+* [10. Embedding-1:Embedding Nedir? Klasik Yöntem]() loading... 
+* [11. Embedding-2:Word2vec ve Glove Yöntemleri]() loading... 
 
 </details>
 
