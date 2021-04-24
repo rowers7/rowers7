@@ -72,7 +72,7 @@
 * [5. Doğal Dil İşleme(DDİ) Veriyi Hazırlama-1](https://www.datasciencearth.com/dogal-dil-isleme1-5-veri-on-isleme-1/) 
 * [6. Doğal Dil İşleme(DDİ) Veriyi Hazırlama-2](https://www.datasciencearth.com/dogal-dil-isleme16-veri-on-isleme-2/)
 * [7. Temel DDİ Uygulamaları - POS](https://www.datasciencearth.com/dogal-dil-isleme1-7-part-of-speech-tagging-ve-sakli-markov-modeli/)
-* [8. Doğal Dil İşleme için Düzenli İfadeler ve Dosya İşlemleri](https://www.datasciencearth.com/dogal-dil-isleme1-8-duzenli-ifadeler-ve-kucuk-python-islemleri/)
+* [8. Doğal Dil İşleme için Düzenli İfadeler](https://www.datasciencearth.com/dogal-dil-isleme1-8-duzenli-ifadeler-ve-kucuk-python-islemleri/)
 
 <br>
 
