@@ -92,7 +92,7 @@
 
 <br>
 
-* [4. Veri Bilimi ve Psikoloji]()  *loading...* 
+* [4. Sosyoloji, Psikoloji ve Veri Bilimi]()  *loading...* 
 * [5. Github Markdown Ekstra]()  *loading...* 
 * [6. Şirketler Veriyi Nasıl Kullanıyor-1]()  *loading...* 
 
