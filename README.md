@@ -88,7 +88,7 @@
  
 * [1. Veri Bilimini Sevmek için 12+ Neden?](https://sayginyildiz.medium.com/veri-bilimini-sevmek-i%C3%A7in-12-neden-85448bed3f1c)
 * [2. Web Kazıma Kütüphaneleri](https://sayginyildiz.medium.com/web-kaz%C4%B1ma-k%C3%BCt%C3%BCphaneleri-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmas%C4%B1-%C3%A7eviri-7dc474931052)
-* [3. Büyük Veri ve Veri Mühendisliği Günceleri](https://sayginyildiz.medium.com/b%C3%BCy%C3%BCk-veri-ve-veri-m%C3%BChendisli%C4%9Fi-g%C3%BCnceleri-0-3aae5004ec27)
+* [3. Büyük Veri 5N 1K](https://sayginyildiz.medium.com/b%C3%BCy%C3%BCk-veri-ve-veri-m%C3%BChendisli%C4%9Fi-g%C3%BCnceleri-1-3834901ec3e7)
 
 <br>
 
