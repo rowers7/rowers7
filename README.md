@@ -94,7 +94,7 @@
 
 * [4. Veri Bilimi ve Psikoloji]()  *loading...* 
 * [5. Github Markdown Ekstra]()  *loading...* 
-* [6. Python ile Firebase Kullanımı]()  *loading...* 
+* [6. Şirketler Veriyi Nasıl Kullanıyor-1]()  *loading...* 
 
 </details>
 
