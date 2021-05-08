@@ -31,6 +31,7 @@
 * [1. NLP](https://github.com/rowers7/NLP-Processes) *loading...* 
 * [2. Web Scrapping]() *loading...* 
 * [3. Exploratory Data Analysis]() *loading...* 
+* [4. Machine Learning Algorithms From Scratch]() *loading...* 
 
 <br>
 
