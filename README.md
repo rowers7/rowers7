@@ -48,15 +48,15 @@
 
 
 ### Natural Language Processing
-* [1. WhatsApp Sentiment Analysis and EDA](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *loading...*<br>
-* [2. Phone Comments Sentiment Analysis with RNN](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *loading...*<br>
+* [1. Phone Comments Sentiment Analysis with RNN](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *loading...*<br>
 ### Others
-* [1. SmartPhones Price Predict (Regression)](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *loading...* <br>
-* [2. Computer Category Predict (Classification)]()  *loading...* <br>
+* [1. WhatsApp Analysis and EDA](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *loading...*<br>
+* [2. SmartPhones Price Predict (Regression)](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *loading...* <br>
 * [3. EDA with MTA Data](https://github.com/rowers7/Project_EDA-with_MTA_data)  <br>
 * [4. Basic SQL Projects](https://github.com/rowers7/Projects_Basic-SQL) <br>
 * [5. Basic Projects (iris,titanic...) ](https://github.com/rowers7/Projects_Basic)  <br>
-* [6. Mini Web Scrapping Projects](https://github.com/rowers7/Web-Scraping-Processes)  *loading...* <br>
+* [6. Web Scrapping Projects](https://github.com/rowers7/Web-Scraping-Processes)  *loading...* <br>
+* [7. Bulanık Mantık ile Arsa Değerlendirme]()  *loading...* <br>
 
 
 
