@@ -57,6 +57,7 @@
 * [5. Basic Projects (iris,titanic...) ](https://github.com/rowers7/Projects_Basic)  <br>
 * [6. Web Scrapping Projects](https://github.com/rowers7/Web-Scraping-Processes)  *loading...* <br>
 * [7. Bulanık Mantık ile Arsa Değerlendirme]()  *loading...* <br>
+* [8. Yağış Tahmini - Bulanık Mantık vs Makine Öğrenmesi vs Derin Öğrenme]()  *loading...* <br>
 
 
 
