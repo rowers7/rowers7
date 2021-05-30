@@ -28,11 +28,19 @@
 
 <details><summary>Black Box</summary>
  
-* [1. NLP](https://github.com/rowers7/NLP-Processes) *loading...* 
+ 
+* [1. Python Tricks and Significant Codes]() *loading...*  
 * [2. Web Scrapping]() *loading...* 
 * [3. Exploratory Data Analysis]() *loading...* 
-* [4. Machine Learning Algorithms From Scratch](https://github.com/rowers7/Scratch) *loading...* 
+* [4. ML/DL/RL Models and Examples]() *loading...* 
+ 
+ <br>
+ 
+* [NLP](https://github.com/rowers7/NLP-Processes) *loading...* 
+* [Machine Learning Algorithms From Scratch](https://github.com/rowers7/Scratch) *loading...* 
 
+
+ 
 <br>
 
 * [Nice Projects and Articles](https://github.com/rowers7/Project_and_Projects_Articles___)
