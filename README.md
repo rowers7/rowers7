@@ -67,7 +67,7 @@
 * [6. Web Scrapping Projects](https://github.com/rowers7/Web-Scraping-Processes)  *loading...* <br>
 * [7. Bulanık Mantık ile Arsa Değerlendirme]()  *loading...* <br>
 * [8. Yağış Tahmini - Bulanık Mantık vs Makine Öğrenmesi vs Derin Öğrenme]()  *loading...* <br>
-* [9. Eğlenceli/Kullanışlı küçük Projeler (Youtube/Medium Kelime Sayacı, İş İlanlarıı Analizi]() *loading...* <br>
+* [9. Eğlenceli/Kullanışlı küçük Projeler (Youtube/Medium Kelime Sayacı, İş İlanları Analizi]() *loading...* <br>
 
 
 
