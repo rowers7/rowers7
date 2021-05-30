@@ -60,8 +60,8 @@
 * [1. Sentiment Analysis for Phone Selection](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *loading...*<br>
 * [2. Sentiment Analysis for Brand Instability]()  *loading...*<br>
 ### Others
-* [1. **EDA** WhatsApp Analysis and EDA](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *loading...*<br>
-* [2. SmartPhones Price Predict (Regression)](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *loading...* <br>
+* [1. **EDA** => WhatsApp Messages Analysis](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *loading...*<br>
+* [2. **Regression** =>SmartPhones Price Predict](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *loading...* <br>
 * [3. EDA with MTA Data](https://github.com/rowers7/Project_EDA-with_MTA_data)  <br>
 * [4. Basic SQL Projects](https://github.com/rowers7/Projects_Basic-SQL) <br>
 * [5. Basic Projects (iris,titanic...) ](https://github.com/rowers7/Projects_Basic)  <br>
