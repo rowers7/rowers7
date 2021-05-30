@@ -61,7 +61,7 @@
 * [2. Sentiment Analysis for Brand Instability]()  *loading...*<br>
 ### Others
 * [**EDA** => WhatsApp Messages Analysis](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *loading...*<br>
-* [**EDA** => Data](https://github.com/rowers7/Project_EDA-with_MTA_data)  <br>
+* [**EDA** => MTA Data (Benefits of Data Analysis) ](https://github.com/rowers7/Project_EDA-with_MTA_data)  <br>
 * [**ML** =>SmartPhones Price Predict](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *loading...* <br>
 * [**ML** => Basic Projects (iris,titanic...) ](https://github.com/rowers7/Projects_Basic)  <br>
 * [**Web Scrapping** => Basic Projects](https://github.com/rowers7/Web-Scraping-Processes)  *loading...* <br>
