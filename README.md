@@ -60,15 +60,15 @@
 * [1. Sentiment Analysis for Phone Selection](https://github.com/rowers7/Project_Telefon-Yorum-Duygu-Analizi)  *loading...*<br>
 * [2. Sentiment Analysis for Brand Instability]()  *loading...*<br>
 ### Others
-* [1. WhatsApp Analysis and EDA](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *loading...*<br>
+* [1. **EDA** WhatsApp Analysis and EDA](https://github.com/rowers7/Project_Wp_Durum-Duygu_Analizi) *loading...*<br>
 * [2. SmartPhones Price Predict (Regression)](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *loading...* <br>
 * [3. EDA with MTA Data](https://github.com/rowers7/Project_EDA-with_MTA_data)  <br>
 * [4. Basic SQL Projects](https://github.com/rowers7/Projects_Basic-SQL) <br>
 * [5. Basic Projects (iris,titanic...) ](https://github.com/rowers7/Projects_Basic)  <br>
 * [6. Web Scrapping Projects](https://github.com/rowers7/Web-Scraping-Processes)  *loading...* <br>
-* [7. Bulanık Mantık ile Arsa Değerlendirme]()  *loading...* <br>
-* [8. Yağış Tahmini - Bulanık Mantık vs Makine Öğrenmesi vs Derin Öğrenme]()  *loading...* <br>
-* [9. Eğlenceli/Kullanışlı küçük Projeler (Youtube/Medium Kelime Sayacı, İş İlanları Analizi)]() *loading...* <br>
+* [7. Land Evaluation with Fuzzy Logic]()  *loading...* <br>
+* [8. Precipitation Prediction - Fuzzy Logic and Machine Learning and Deep Learning]()  *loading...* <br>
+* [9. Useful Little Projects (Youtube/Medium Word Counter, Job Posting Analysis)]() *loading...* <br>
 
 
 
