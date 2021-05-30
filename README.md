@@ -30,7 +30,7 @@
  
  
 * [1. Python Tricks and Significant Codes]() *loading...*  
-* [2. Web Scrapping]() *loading...* 
+* [2. Web Scraping]() *loading...* 
 * [3. Exploratory Data Analysis]() *loading...* 
 * [4. ML/DL/RL Models and Examples]() *loading...* 
  
@@ -64,7 +64,7 @@
 * [**EDA** => MTA Data (Benefits of Data Analysis) ](https://github.com/rowers7/Project_EDA-with_MTA_data)  <br>
 * [**ML** =>SmartPhones Price Predict](https://github.com/rowers7/Project_Telefon-Fiyat-Analizi)  *loading...* <br>
 * [**ML** => Basic Projects (iris,titanic...) ](https://github.com/rowers7/Projects_Basic)  <br>
-* [**Web Scrapping** => Basic Projects](https://github.com/rowers7/Web-Scraping-Processes)  *loading...* <br>
+* [**Web Scraping** => Basic Projects](https://github.com/rowers7/Web-Scraping-Processes)  *loading...* <br>
 * [**SQL** => Basic Projects](https://github.com/rowers7/Projects_Basic-SQL) <br>
 * [**Fuzzy Logic** => Land Evaluation]()  *loading...* <br>
 * [**Mixed** => Precipitation Prediction - Fuzzy Logic and Machine Learning and Deep Learning]()  *loading...* <br>
