@@ -39,7 +39,7 @@
 * [NLP](https://github.com/rowers7/NLP-Processes) *loading...* 
 * [Machine Learning Algorithms From Scratch](https://github.com/rowers7/Scratch) *loading...* 
 * [Branches and Algorithms of Artificial Intelligence  - (Fuzzy Logic, Machine Learning, NLP etc.)]() *loading...* 
-
+* [Big Data and Data Engineering ]() *loading...* 
 
  
 <br>
