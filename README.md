@@ -67,7 +67,7 @@
 * [**Web Scraping** => Basic Projects](https://github.com/rowers7/Web-Scraping-Processes)  *loading...* <br>
 * [**SQL** => Basic Projects](https://github.com/rowers7/Projects_Basic-SQL) <br>
 * [**Fuzzy Logic** => Land Evaluation]()  *loading...* <br>
-* [**Mixed** => Precipitation Prediction - Fuzzy Logic and Machine Learning and Deep Learning]()  *loading...* <br>
+* [**Mixed** => Precipitation Prediction - Fuzzy Logic and Machine Learning]()  *loading...* <br>
 * [**Mixed** => Useful Little Projects (Youtube/Medium Word Counter, Job Posting Analysis)]() *loading...* <br>
 
 
